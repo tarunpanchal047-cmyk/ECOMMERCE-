@@ -32,3 +32,4 @@ Payment mode distribution insights
 KPI cards for Amount, Profit, Quantity, and AOV
 User-friendly and visually attractive dashboard design
 Screenshot
+https://github.com/tarunpanchal047-cmyk/ECOMMERCE-/blob/main/ecommerce%20.png
